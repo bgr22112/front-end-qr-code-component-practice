@@ -1,0 +1,39 @@
+body {
+  background-color: hsl(212,45%,89%);
+  margin: 10% auto;
+  text-align: center;
+}
+
+p {
+  font-size: 15px;
+  font-family: Outfit, sans-serif;
+}
+
+.wrapper {
+  background-color: hsl(0,0%,100%);
+  margin: auto;
+  width: 14%;
+  padding: 1%;
+  border-radius: 5%;
+}
+
+.middle-container {
+  color: hsl(218,44%,22%);
+  font-weight: bold;
+  margin: auto;
+}
+
+.bottom-container {
+  color: hsl(220, 15%, 55%);
+  margin: auto;
+}
+
+.bottom-container-font {
+  font-size: 12px;
+}
+
+.qr-image {
+  border-radius: 5%;
+  width: 99%;
+  margin: auto;
+}
